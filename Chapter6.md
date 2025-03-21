@@ -1,4 +1,4 @@
-# Logistic classifiers
+# Chapter 6: Logistic classifiers
 
 ## Bij logistic classifiers wordt de sigmoïde als activation function gebruikt.
 **Wat is de wiskundige vorm van de sigmoïde functie?**

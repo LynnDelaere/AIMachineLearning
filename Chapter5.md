@@ -1,4 +1,4 @@
-# The perceptron algorithm
+# Chapter 5: The perceptron algorithm
 
 ## Waarom kan de step function als activation function worden gebruikt bij lineaire classificatie zoals bij het perceptron algoritme? Waarom wordt de step activation function toch minder frequent toegepast bij machine learning?
 De stapfunctie kan worden gebruikt als een activatiefunctie bij lineaire classificatie, zoals bij het perceptron algoritme, omdat deze de uitvoer van het model omzet in een binaire waarde, waardoor een beslissing kan worden genomen over de klasse waartoe een bepaald datapunt behoort.

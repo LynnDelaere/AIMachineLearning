@@ -1,4 +1,4 @@
-# Underfitting, overfitting, testing and regularization
+# Chapter 4: Underfitting, overfitting, testing and regularization
 
 ## Hoe kan underfitting, optimal fitting en overfitting worden bepaald door de training error en de test error met elkaar te vergelijken?
 **Underfitting:** Een model dat underfit, presteert slecht op zowel de trainingsset als de testset. Beide fouten zijn hoog. Dit betekent dat het model te simpel is en de data niet goed kan leren.
