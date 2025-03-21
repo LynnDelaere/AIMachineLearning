@@ -3,6 +3,7 @@
 ## Het naive Bayes theorema is gebaseerd op prior probability, posterior probability en event.
 **Hoe staan deze drie in relatie tot elkaar en geef een concreet voorbeeld?**
 **Wat veronderstelt het naive Bayes theorema?**
+Het naive Bayes theorema veronderstelt dat de features onafhankelijk zijn van elkaar. Dit betekent dat de aanwezigheid van een bepaalde feature geen invloed heeft op de aanwezigheid van een andere feature.
 
 ## Toon aan dat P(spam|'sale') = 0.60 als volgende gegevens beschikbaar zijn:
 **de dataset bestaat uit 100 mails**
