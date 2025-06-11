@@ -15,7 +15,7 @@ Een gebeurtenis die plaatsvindt en nieuwe informatie oplevert. Voorbeeld: Een ma
 
 De uiteindelijke kans die we berekenen nadat we de prior probability hebben gecombineerd met de informatie van het event. Voorbeeld: Wat is de kans dat een mail spam is nadat we weten dat het woord 'sale' erin voorkomt?
 
-![Naive Bayes](./Images/NaiveBayes.png)
+![Naive Bayes](./Images/NaiveBayes.png) 
 
 
 **Wat veronderstelt het naive Bayes theorema?**
