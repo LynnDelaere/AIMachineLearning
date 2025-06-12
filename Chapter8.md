@@ -42,13 +42,17 @@ We hebben de volgende gegevens:
 
 We hebben P('sale') nodig om de posterior probability te berekenen. We kunnen P('sale') berekenen met de wet van de totale kans:
 $$P('sale') = P('sale' | spam) \times P(spam) + P('sale' | ham) \times P(ham)$$
+
 $$P('sale') = (0.30 \times 0.20) + (0.05 \times 0.80)$$
+
 $$P('sale') = 0.06 + 0.04 = 0.10$$
 
 Nu kunnen we P(spam | 'sale') berekenen met het Bayes-theorema:
 
 $$P(spam | 'sale') = \frac{P('sale' | spam) \times P(spam)}{P('sale')}$$
+
 $$P(spam | 'sale') = \frac{0.30 \times 0.20}{0.10}$$
+
 $$P(spam | 'sale') = \frac{0.06}{0.10} = 0.60$$
 
 
